@@ -417,60 +417,6 @@ MUSIC JAPAN TV,mitv://ns2.hellotvvod.com:9906/16a8ff808b3649109d0f21a269682111
 ナショナ儿 ジオグラフィッ,mitv://ns2.hellotvvod.com:9906/7c7e79fc9ba24e19907dad24d856ce9a
 日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/0c2f40999c00436ab5e823a25e3d5c13
 CARTOON NETWORK,mitv://ns2.hellotvvod.com:9906/5419e8cfbb6a496aade3406e257768a7
-日本JP,#genre#
-時代劇場門チャンネル,http://50.7.74.29:8080/hlsok/j00002/idex.m3u8
-日本テレビ,http://50.7.74.29:8080/hlsok/j00004/idex.m3u8
-3号[960*540],http://50.7.74.29:8080/hlsok/j00003/idex.m3u8
-衛星劇場ＨＤ,http://50.7.74.29:8080/hlsok/j00001/idex.m3u8
-日テレジータス,http://50.7.74.29:8080/hlsok/j00005/idex.m3u8
-6号[1280*720],http://50.7.74.29:8080/hlsok/j00006/idex.m3u8
-読売テレビ,http://50.7.74.29:8080/hlsok/j00007/idex.m3u8
-TOEI ch,http://50.7.74.29:8080/hlsok/j00008/idex.m3u8
-9号[960*540],http://50.7.74.29:8080/hlsok/j00009/idex.m3u8
-フジテレビ,http://50.7.74.29:8080/hlsok/j00010/idex.m3u8
-家庭劇場,http://50.7.74.29:8080/hlsok/j00011/idex.m3u8
-テレビ東京,http://50.7.74.29:8080/hlsok/j00012/idex.m3u8
-フジテレビＴＷＯ,http://50.7.74.29:8080/hlsok/j00013/idex.m3u8
-ディズニー,http://50.7.74.29:8080/hlsok/j00015/idex.m3u8
-朝日放送,http://50.7.74.29:8080/hlsok/j00014/idex.m3u8
-ディズニージュニア,http://50.7.74.29:8080/hlsok/j00016/idex.m3u8
-スターチャンネル2,http://50.7.74.29:8080/hlsok/j00018/idex.m3u8
-BSスカイ・A sports＋,http://50.7.74.29:8080/hlsok/j00020/idex.m3u8
-スターチャンネル３,http://50.7.74.29:8080/hlsok/j00017/idex.m3u8
-スターチャンネル1,http://50.7.74.29:8080/hlsok/j00019/idex.m3u8
-サンテレビ,http://50.7.74.29:8080/hlsok/j00021/idex.m3u8
-KIDS JP,http://50.7.74.29:8080/hlsok/j00023/idex.m3u8
-CN JP,http://50.7.74.29:8080/hlsok/j00024/idex.m3u8
-ゴルフネットワーク,http://50.7.74.29:8080/hlsok/j00022/idex.m3u8
-アニマルプラネット 動物星球,http://50.7.74.29:8080/hlsok/j00025/idex.m3u8
-27号[1280*720],http://50.7.74.29:8080/hlsok/j00027/idex.m3u8
-ANIMAX BSアニマックス,http://50.7.74.29:8080/hlsok/j00026/idex.m3u8
-ＷＯＷＯＷプライム,http://50.7.74.29:8080/hlsok/j00029/idex.m3u8
-ＷＯＷＯＷシネマ,http://50.7.74.29:8080/hlsok/j00028/idex.m3u8
-30号[1280*720],http://50.7.74.29:8080/hlsok/j00030/idex.m3u8
-NHK-G综合,http://50.7.74.29:8080/hlsok/j00032/idex.m3u8
-TBSテレビ,http://50.7.74.29:8080/hlsok/j00031/idex.m3u8
-NHK-G综合,http://50.7.74.29:8080/hlsok/j00033/idex.m3u8
-NHK-E教育,http://50.7.74.29:8080/hlsok/j00034/idex.m3u8
-NHK-E教育,http://50.7.74.29:8080/hlsok/j00035/idex.m3u8
-NHK BSプレミアム,http://50.7.74.29:8080/hlsok/j00036/idex.m3u8
-NHK BS-1,http://50.7.74.29:8080/hlsok/j00037/idex.m3u8
-MBS毎日放送,http://50.7.74.29:8080/hlsok/j00038/idex.m3u8
-J SPORTS 4,http://50.7.74.29:8080/hlsok/j00039/idex.m3u8
-J SPORTS 3,http://50.7.74.29:8080/hlsok/j00040/idex.m3u8
-J SPORTS 1,http://50.7.74.29:8080/hlsok/j00042/idex.m3u8
-J SPORTS 2,http://50.7.74.29:8080/hlsok/j00041/idex.m3u8
-ＷＯＷＯＷプラス,http://50.7.74.29:8080/hlsok/j00043/idex.m3u8
-GREEN チャンネル,http://50.7.74.29:8080/hlsok/j00044/idex.m3u8
-ＧＡOＲＡ　ＨＤ,http://50.7.74.29:8080/hlsok/j00045/idex.m3u8
-BS日テレ,http://50.7.74.29:8080/hlsok/j00047/idex.m3u8
-BSフジ,http://50.7.74.29:8080/hlsok/j00049/idex.m3u8
-BS朝日,http://50.7.74.29:8080/hlsok/j00048/idex.m3u8
-釣りビジョン,http://50.7.74.29:8080/hlsok/j00046/idex.m3u8
-BS 東京,http://50.7.74.29:8080/hlsok/j00050/idex.m3u8
-ABC朝日放送,http://50.7.74.29:8080/hlsok/j00053/idex.m3u8
-BS-TBS,http://50.7.74.29:8080/hlsok/j00051/idex.m3u8
-AN-X,http://50.7.74.29:8080/hlsok/j00052/idex.m3u8
 韓國,#genre#
 ARIRANG,mitv://ns2.hellotvvod.com:9906/0a89887bb3604794b1fda5c3eae45021
 KBS1,mitv://ns2.hellotvvod.com:9906/8bce97b04ee94db6a8a4153dd4c4fe6c
@@ -783,7 +729,6 @@ HOT,mitv://ns2.hellotvvod.com:9906/c89f06c3593342ff9c3cb59d2542a192
 HAPPY,mitv://ns2.hellotvvod.com:9906/9895c01831c643ea816f126483f1242d
 JSTAR極限台,mitv://ns2.hellotvvod.com:9906/c7a6ba75285d476e973cf01367ac6b1a
 極K影視,http://58.63.97.224:8089/hls/100/index.m3u8
-
 雙龍P5P,#genre#
 HBO-HD,p5p://fccs.123178.top:9906/604340b2000af04c06a787875d674b81
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
