@@ -714,6 +714,17 @@ THRILL,mitv://ns2.hellotvvod.com:9906/70b676c4e0f9424991012e9bfcddd4e7
 EYE TV戲劇台,mitv://ns2.hellotvvod.com:9906/446502d9b45941efb5bf52f21a282471
 愛爾達影劇台,mitv://ns2.hellotvvod.com:9906/7964972106564c79bee0dbe6dde23c81
 SP_1212,#genre#
+Happy,rtmp://125.227.196.250:1935/live/HAPPY
+香蕉台,rtmp://125.227.196.250:1935/live/BananaStation
+彩虹台,rtmp://125.227.196.250:1935/live/Rainbowmovie
+驚艷台,rtmp://125.227.196.250:1935/live/AmazingTaiwan
+K頻道,rtmp://125.227.196.250:1935/live/Kchannel
+極限電影台,rtmp://125.227.196.250:1935/live/JSTAR
+松視1台,rtmp://125.227.196.250:1935/live/PineVision1
+松視2台,rtmp://125.227.196.250:1935/live/PineVision2
+松視3台,rtmp://125.227.196.250:1935/live/PineVision3
+潘多拉完美台,rtmp://125.227.196.250:1935/live/PandoraPlays
+潘多拉粉紅台,rtmp://125.227.196.250:1935/live/PandoraPink
 彩虹E台,mitv://ns2.hellotvvod.com:9906/fa9fcb0ade2e4683a489497cda4861db
 彩虹電影台,mitv://ns2.hellotvvod.com:9906/cc404855490643bb968e764f6e2f0fb9
 LOOK TV,mitv://ns2.hellotvvod.com:9906/0e9bdd262cc34bc0b2b6f55f12cd6ec8
